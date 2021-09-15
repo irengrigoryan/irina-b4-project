@@ -5,6 +5,6 @@ public class GitDay2 {
         System.out.println("Good morning! It is day 2");
     }
     public static String revStr(String str){
-        return new StringBuilder(str).reverse().toString()
+        return new StringBuilder(str).reverse().toString();
     }
 }
